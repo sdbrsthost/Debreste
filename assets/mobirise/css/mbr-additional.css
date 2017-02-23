@@ -6,12 +6,12 @@
 	font-size: 16px;
 }
 &.mbr-navbar--stuck .mbr-navbar__section {
-	background: #2c2c2c;
+	background: #ffffff;
 }
 .mbr-navbar__section {
 }
 .mbr-navbar__hamburger {
-	color: #ffffff;
+	color: #27aae0;
 }
 .mbr-brand__name a {
 	font-size: 25px;
@@ -115,10 +115,10 @@ H3 {
   font-size: 16px;
 }
 #ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #efefef;
+  background: #ffffff;
 }
 #ext_menu-a .mbr-navbar__hamburger {
-  color: #000000;
+  color: #27aae0;
 }
 #ext_menu-a .mbr-brand__name a {
   font-size: 25px;
